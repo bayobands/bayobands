@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Bayo, and I am currently a Junior Computer Science Major intrested in all things Python and gaming.
+- 🔭 I’m currently working on school projects/ a personal game I want to sell on App Store.
+- 🌱 I am currently learning python and C/C++.
+- ⚡ My favorite game is Valorant
 
 <!--
 **bayobands/bayobands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
