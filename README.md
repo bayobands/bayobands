@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Bayo, and I am currently a Junior Computer Science Major intrested in all things Python and gaming.
 - 🔭 I’m currently working on school projects/ a personal game I am creating in Java I want to sell on App Store.
-- 🌱 I am currently learning python and C/C++.
+- 🌱 I am currently learning Java.
 - ⚡ My favorite game is Valorant
 
 <!--
