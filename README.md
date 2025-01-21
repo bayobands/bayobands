@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Bayo, and I am currently a Junior at UCSC, and my major is Computer Science, I am intrested in all things gaming
-- 🔭 I’m currently working on school projects / a personal game I am creating in Java I want to sell on App Store.
+- 🔭 I’m currently working on school projects / a personal game in Java. Planning to sell on App Store if recieved well.
 - 🌱 I am currently learning Java.
 - ⚡ My favorite game is Valorant
 
