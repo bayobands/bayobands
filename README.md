@@ -1,8 +1,8 @@
 ## Hi there 👋
-My name is Bayo, and I am currently a Junior at UCSC, and my major is Computer Science, I am intrested in all things gaming
-- 🔭 I’m currently working on school projects / a personal game in Java. Planning to sell on App Store if recieved well.
-- 🌱 I am currently learning Java.
-- ⚡ My favorite game is Valorant
+My name is Bayo, and I am currently a Senior at UCSC, and my major is Computer Science, I am intrested in all things gaming
+- 🔭 I’m currently working on my Educational App.
+- 🌱 I am currently learning Web Development and Machine Learning.
+- ⚡ My favorite game is Valorant.
 
 <!--
 **bayobands/bayobands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Tech Stack:
+C++ JavaScript HTML5 Python
