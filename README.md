@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Bayo, and I am currently a Senior at UCSC, and my major is Computer Science, I am interested in all things gaming and excersize.
+My name is Bayo, and I am currently a Senior at UCSC, and my major is Computer Science, I am interested in all things gaming and exercise.
 - 🔭 I’m currently working on my Educational App.
 - 🌱 I am currently learning Web Development and Machine Learning.
 - ⚡ My favorite game is Valorant.
